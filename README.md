@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I love exploring new ideas, learning from hands-on
 ---
 
 ## 🚀 Things I'm Learning  
-- How to work with microcontrollers like Arduino and NodeMCU.  
+- How to work with microcontrollers like STM32 and ESP32.  
 - Connecting and using sensors for real-world applications.  
 - Building simple web interfaces for IoT projects.  
-- Writing clean and functional code in C++ and Python.  
+- Writing clean and functional code in C/C++.  
 
 ---
 
