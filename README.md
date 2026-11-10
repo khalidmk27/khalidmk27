@@ -1,5 +1,4 @@
-# khalidmk27
-
+# Khalid Mohammed Khizar
 Embedded Systems & IoT Developer
 
 I build practical hardware and firmware solutions focused on real-world problem solving, smart devices, and connected systems. My work spans microcontrollers, wireless communication, sensor integration, and low-level system design.
