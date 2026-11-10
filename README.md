@@ -1,29 +1,58 @@
-# Hi there, I'm @khalidmk27! 👋  
+# khalidmk27
 
-Welcome to my GitHub profile! I love exploring new ideas, learning from hands-on projects, and experimenting with technology.  
+Embedded Systems & IoT Developer
 
----
+I build practical hardware and firmware solutions focused on real-world problem solving, smart devices, and connected systems. My work spans microcontrollers, wireless communication, sensor integration, and low-level system design.
 
-## 🌱 About Me  
-- 🧠 **Lifelong Learner**: I'm always excited to dive into new topics and try things I've never done before.  
-- 🛠️ **Tinkerer**: Whether it’s connecting sensors, writing code, or troubleshooting, I enjoy the process of figuring things out.  
-- 🌐 **Explorer**: I’m currently exploring how to combine simple hardware and software to create fun and useful projects.  
+## About Me
 
----
+I am a technology enthusiast with a strong interest in embedded systems, firmware development, and IoT applications. I enjoy designing and implementing solutions that combine hardware, software, and communication protocols to create useful and efficient systems.
 
-## 🚀 Things I'm Learning  
-- How to work with microcontrollers like STM32 and ESP32.  
-- Connecting and using sensors for real-world applications.  
-- Building simple web interfaces for IoT projects.  
-- Writing clean and functional code in C/C++.  
+My work includes:
+- Microcontroller-based systems
+- Sensor interfacing and data acquisition
+- Embedded firmware development
+- Wireless communication and networking
+- Real-time monitoring and automation systems
 
----
+## Core Skills
 
-## 📫 Let’s Connect!  
-- 📧 Email: [khizarmdkhalid10@gmail.com](mailto:khizarmdkhalid10@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/khalid-md-khizar](www.linkedin.com/in/khalid-md-khizar-4b54a0275)  
+- Embedded C / C++
+- Rust (Firmware and Embedded Development)
+- Arduino
+- ESP32 / ESP-IDF
+- STM32 / Embedded Systems
+- UART, Wi-Fi, MQTT, HTTP
+- Sensor Integration
+- IoT System Design
+- MATLAB and Simulation
+- Hardware Prototyping and Debugging
 
----
+## Current Focus
 
-## ⚡ Fun Fact  
-I believe every project, no matter how simple, teaches something new and opens the door to bigger possibilities. Let’s keep exploring!  
+I am currently expanding my skills in:
+- Embedded firmware architecture
+- Rust for embedded systems
+- ESP32 and STM32-based system design
+- Wireless communication and networking
+- Efficient and reliable IoT development
+
+## Learning Journey
+
+I enjoy continuously exploring new technologies and improving my understanding of:
+- Real-time firmware design
+- Sensor-driven automation
+- Embedded networking
+- Low-power embedded systems
+- End-to-end IoT solutions
+- FPGA Programming
+
+## Contact
+
+- Email: khizarmdkhalid10@gmail.com
+- LinkedIn: https://www.linkedin.com/in/khalid-md-khizar-4b54a0275
+- GitHub: https://github.com/khalidmk27
+
+## Motto
+
+"Building meaningful solutions through code, hardware, and curiosity."
