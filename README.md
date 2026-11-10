@@ -27,7 +27,6 @@ My interests span low-level firmware development, wireless networking, real-time
 **Programming Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 **Microcontrollers & Development Platforms**
